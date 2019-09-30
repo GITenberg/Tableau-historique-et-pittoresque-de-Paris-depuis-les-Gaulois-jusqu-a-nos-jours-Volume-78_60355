@@ -1,5 +1,8 @@
 _repo: Tableau-historique-et-pittoresque-de-Paris-depuis-les-Gaulois-jusqu-a-nos-jours-Volume-78_60355
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60355-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Saint-Victor, J. B. de (Jacques-Benjamin)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40278
     wikipedia: http://fr.wikipedia.org/wiki/Jacques_Bins_de_Saint-Victor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60355#Tableau-historique-et-pittoresque-de-Paris-depuis-les-Gaulois-jusqu-a-nos-jours-Volume-78
 gutenberg_issued: '2019-09-25'
 gutenberg_type: Text
 identifiers:
