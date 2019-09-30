@@ -1,0 +1,30 @@
+_repo: Tableau-historique-et-pittoresque-de-Paris-depuis-les-Gaulois-jusqu-a-nos-jours-Volume-78_60355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saint-Victor, J. B. de (Jacques-Benjamin)
+    aliases:
+    - Saint-Victor, Jacques-Maximilien Benjamin Bins de
+    - Bins, Jacques-Benjamin-Maximilien, comte de Saint-Victor
+    - De Saint-Victor, J. B. (Jacques-Benjamin
+    birthdate: 1772
+    deathdate: 1858
+    gutenberg_agent_id: '40278'
+    url: http://www.gutenberg.org/2009/agents/40278
+    wikipedia: http://fr.wikipedia.org/wiki/Jacques_Bins_de_Saint-Victor
+description: ''
+gutenberg_issued: '2019-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60355'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcc 'DC'
+- GITenberg
+title: Tableau historique et pittoresque de Paris depuis les Gaulois jusqu'à nos jours
+  (Volume 7/8)
+url: http://www.gutenberg.org/ebooks/60355
